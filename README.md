@@ -1,1 +1,1 @@
-# MVP para a sprint 1 da pós-graduação em Data Science da PUC Rio
+# MVP para a Sprint 1 da Pós-graduação em Data Science da PUC Rio
